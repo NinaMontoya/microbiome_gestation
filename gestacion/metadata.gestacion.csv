@@ -1,0 +1,239 @@
+OTUID,poblacion,temporada,seccion,sexo,corrida,profundidad ,Sexo_poblacion,Sexo_temporada,comparacion
+265MI,2600 msnm,Reproductiva,Ileon,Macho,corrida1,5422,Macho 2600 msnm,Macho Reproductivo,Macho2600Rep
+265MR,2600 msnm,Reproductiva,Recto,Macho,corrida1,704,Macho 2600 msnm,Macho Reproductivo,Macho2600Rep
+265MS,2600 msnm,Reproductiva,Estomago,Macho,corrida1,17910,Macho 2600 msnm,Macho Reproductivo,Macho2600Rep
+263MI,2600 msnm,Reproductiva,Ileon,Macho,corrida1,3218,Macho 2600 msnm,Macho Reproductivo,Macho2600Rep
+263MR,2600 msnm,Reproductiva,Recto,Macho,corrida1,12862,Macho 2600 msnm,Macho Reproductivo,Macho2600Rep
+263MS,2600 msnm,Reproductiva,Estomago,Macho,corrida1,12394,Macho 2600 msnm,Macho Reproductivo,Macho2600Rep
+261MI,2600 msnm,Reproductiva,Ileon,Macho,corrida1,6798,Macho 2600 msnm,Macho Reproductivo,Macho2600Rep
+261MR,2600 msnm,Reproductiva,Recto,Macho,corrida1,11279,Macho 2600 msnm,Macho Reproductivo,Macho2600Rep
+261MS,2600 msnm,Reproductiva,Estomago,Macho,corrida1,2642,Macho 2600 msnm,Macho Reproductivo,Macho2600Rep
+264MI,2600 msnm,Reproductiva,Ileon,Macho,corrida1,12196,Macho 2600 msnm,Macho Reproductivo,Macho2600Rep
+264MR,2600 msnm,Reproductiva,Recto,Macho,corrida1,8316,Macho 2600 msnm,Macho Reproductivo,Macho2600Rep
+264MS,2600 msnm,Reproductiva,Estomago,Macho,corrida1,172,Macho 2600 msnm,Macho Reproductivo,Macho2600Rep
+262MI,2600 msnm,Reproductiva,Ileon,Macho,corrida1,8401,Macho 2600 msnm,Macho Reproductivo,Macho2600Rep
+262MR,2600 msnm,Reproductiva,Recto,Macho,corrida1,5036,Macho 2600 msnm,Macho Reproductivo,Macho2600Rep
+262MS,2600 msnm,Reproductiva,Estomago,Macho,corrida1,294,Macho 2600 msnm,Macho Reproductivo,Macho2600Rep
+26M6ScS,2600 msnm,Reproductiva,Estomago,Macho,corrida3,289,Macho 2600 msnm,Macho Reproductivo,Macho2600Rep
+26M6ScI,2600 msnm,Reproductiva,Ileon,Macho,corrida3,983,Macho 2600 msnm,Macho Reproductivo,Macho2600Rep
+26M6ScR,2600 msnm,Reproductiva,Recto,Macho,corrida3,7005,Macho 2600 msnm,Macho Reproductivo,Macho2600Rep
+26M2ScS,2600 msnm,Reproductiva,Estomago,Macho,corrida3,1141,Macho 2600 msnm,Macho Reproductivo,Macho2600Rep
+26M2ScI,2600 msnm,Reproductiva,Ileon,Macho,corrida3,472,Macho 2600 msnm,Macho Reproductivo,Macho2600Rep
+26M2ScR,2600 msnm,Reproductiva,Recto,Macho,corrida3,18656,Macho 2600 msnm,Macho Reproductivo,Macho2600Rep
+26M14S,2600 msnm,Reproductiva,Estomago,Macho,corrida3,2897,Macho 2600 msnm,Macho Reproductivo,Macho2600Rep
+26M14I,2600 msnm,Reproductiva,Ileon,Macho,corrida3,506,Macho 2600 msnm,Macho Reproductivo,Macho2600Rep
+26M14R,2600 msnm,Reproductiva,Recto,Macho,corrida3,6214,Macho 2600 msnm,Macho Reproductivo,Macho2600Rep
+26M19S,2600 msnm,Reproductiva,Estomago,Macho,corrida3,2263,Macho 2600 msnm,Macho Reproductivo,Macho2600Rep
+26M19I,2600 msnm,Reproductiva,Ileon,Macho,corrida3,253,Macho 2600 msnm,Macho Reproductivo,Macho2600Rep
+26M19R,2600 msnm,Reproductiva,Recto,Macho,corrida3,9168,Macho 2600 msnm,Macho Reproductivo,Macho2600Rep
+26M4ScS,2600 msnm,Reproductiva,Estomago,Macho,corrida3,676,Macho 2600 msnm,Macho Reproductivo,Macho2600Rep
+26M4ScI,2600 msnm,Reproductiva,Ileon,Macho,corrida3,1608,Macho 2600 msnm,Macho Reproductivo,Macho2600Rep
+26M4ScR,2600 msnm,Reproductiva,Recto,Macho,corrida3,24023,Macho 2600 msnm,Macho Reproductivo,Macho2600Rep
+26CFI,2600 msnm,Reproductiva,Ileon,Hembra,corrida1,20653,Hembra 2600 msnm,Hembra Reproductiva,Hembra2600Rep
+26CFR,2600 msnm,Reproductiva,Recto,Hembra,corrida1,10733,Hembra 2600 msnm,Hembra Reproductiva,Hembra2600Rep
+26CFS,2600 msnm,Reproductiva,Estomago,Hembra,corrida1,76,Hembra 2600 msnm,Hembra Reproductiva,Hembra2600Rep
+26BFI,2600 msnm,Reproductiva,Ileon,Hembra,corrida1,8474,Hembra 2600 msnm,Hembra Reproductiva,Hembra2600Rep
+26BFR,2600 msnm,Reproductiva,Recto,Hembra,corrida1,16380,Hembra 2600 msnm,Hembra Reproductiva,Hembra2600Rep
+26BFS,2600 msnm,Reproductiva,Estomago,Hembra,corrida1,7943,Hembra 2600 msnm,Hembra Reproductiva,Hembra2600Rep
+26DFI,2600 msnm,Reproductiva,Ileon,Hembra,corrida1,12378,Hembra 2600 msnm,Hembra Reproductiva,Hembra2600Rep
+26DFR,2600 msnm,Reproductiva,Recto,Hembra,corrida1,21146,Hembra 2600 msnm,Hembra Reproductiva,Hembra2600Rep
+26DFS,2600 msnm,Reproductiva,Estomago,Hembra,corrida1,804,Hembra 2600 msnm,Hembra Reproductiva,Hembra2600Rep
+26AFI,2600 msnm,Reproductiva,Ileon,Hembra,corrida1,20250,Hembra 2600 msnm,Hembra Reproductiva,Hembra2600Rep
+26AFR,2600 msnm,Reproductiva,Recto,Hembra,corrida1,8021,Hembra 2600 msnm,Hembra Reproductiva,Hembra2600Rep
+26AFS,2600 msnm,Reproductiva,Estomago,Hembra,corrida1,21433,Hembra 2600 msnm,Hembra Reproductiva,Hembra2600Rep
+26EFI,2600 msnm,Reproductiva,Ileon,Hembra,corrida1,12939,Hembra 2600 msnm,Hembra Reproductiva,Hembra2600Rep
+26EFR,2600 msnm,Reproductiva,Recto,Hembra,corrida1,11270,Hembra 2600 msnm,Hembra Reproductiva,Hembra2600Rep
+26EFS,2600 msnm,Reproductiva,Estomago,Hembra,corrida1,666,Hembra 2600 msnm,Hembra Reproductiva,Hembra2600Rep
+26FP3S,2600 msnm,Reproductiva,Estomago,Hembra,corrida3,934,Hembra 2600 msnm,Hembra Reproductiva,Hembra2600Rep
+26FP3I,2600 msnm,Reproductiva,Ileon,Hembra,corrida3,16,Hembra 2600 msnm,Hembra Reproductiva,Hembra2600Rep
+26FP3R,2600 msnm,Reproductiva,Recto,Hembra,corrida3,27612,Hembra 2600 msnm,Hembra Reproductiva,Hembra2600Rep
+26FP7S,2600 msnm,Reproductiva,Estomago,Hembra,corrida3,559,Hembra 2600 msnm,Hembra Reproductiva,Hembra2600Rep
+26FP7I,2600 msnm,Reproductiva,Ileon,Hembra,corrida3,345,Hembra 2600 msnm,Hembra Reproductiva,Hembra2600Rep
+26FP7R,2600 msnm,Reproductiva,Recto,Hembra,corrida3,24893,Hembra 2600 msnm,Hembra Reproductiva,Hembra2600Rep
+26FP16S,2600 msnm,Reproductiva,Estomago,Hembra,corrida3,152,Hembra 2600 msnm,Hembra Reproductiva,Hembra2600Rep
+26FP16I,2600 msnm,Reproductiva,Ileon,Hembra,corrida3,37,Hembra 2600 msnm,Hembra Reproductiva,Hembra2600Rep
+26FP16R,2600 msnm,Reproductiva,Recto,Hembra,corrida3,13180,Hembra 2600 msnm,Hembra Reproductiva,Hembra2600Rep
+26FP8S,2600 msnm,Reproductiva,Estomago,Hembra,corrida3,37,Hembra 2600 msnm,Hembra Reproductiva,Hembra2600Rep
+26FP8I,2600 msnm,Reproductiva,Ileon,Hembra,corrida3,1212,Hembra 2600 msnm,Hembra Reproductiva,Hembra2600Rep
+26FP8R,2600 msnm,Reproductiva,Recto,Hembra,corrida3,22983,Hembra 2600 msnm,Hembra Reproductiva,Hembra2600Rep
+26FP12S,2600 msnm,Reproductiva,Estomago,Hembra,corrida3,23386,Hembra 2600 msnm,Hembra Reproductiva,Hembra2600Rep
+26FP12I,2600 msnm,Reproductiva,Ileon,Hembra,corrida3,9752,Hembra 2600 msnm,Hembra Reproductiva,Hembra2600Rep
+26FP12R,2600 msnm,Reproductiva,Recto,Hembra,corrida3,16261,Hembra 2600 msnm,Hembra Reproductiva,Hembra2600Rep
+4110MI,4150 msnm,Reproductiva,Ileon,Macho,corrida1,9428,Macho 4150 msnm,Macho Reproductivo,Macho4150Rep
+4110MR,4150 msnm,Reproductiva,Recto,Macho,corrida1,23179,Macho 4150 msnm,Macho Reproductivo,Macho4150Rep
+4110MS,4150 msnm,Reproductiva,Estomago,Macho,corrida1,15411,Macho 4150 msnm,Macho Reproductivo,Macho4150Rep
+41JMI,4150 msnm,Reproductiva,Ileon,Macho,corrida1,11748,Macho 4150 msnm,Macho Reproductivo,Macho4150Rep
+41JMR,4150 msnm,Reproductiva,Recto,Macho,corrida1,7689,Macho 4150 msnm,Macho Reproductivo,Macho4150Rep
+41JMS,4150 msnm,Reproductiva,Estomago,Macho,corrida1,3491,Macho 4150 msnm,Macho Reproductivo,Macho4150Rep
+41IMI,4150 msnm,Reproductiva,Ileon,Macho,corrida1,8166,Macho 4150 msnm,Macho Reproductivo,Macho4150Rep
+41IMR,4150 msnm,Reproductiva,Recto,Macho,corrida1,15688,Macho 4150 msnm,Macho Reproductivo,Macho4150Rep
+41IMS,4150 msnm,Reproductiva,Estomago,Macho,corrida1,12163,Macho 4150 msnm,Macho Reproductivo,Macho4150Rep
+41GMI,4150 msnm,Reproductiva,Ileon,Macho,corrida1,6201,Macho 4150 msnm,Macho Reproductivo,Macho4150Rep
+41GMR,4150 msnm,Reproductiva,Recto,Macho,corrida1,20136,Macho 4150 msnm,Macho Reproductivo,Macho4150Rep
+41GMS,4150 msnm,Reproductiva,Estomago,Macho,corrida1,11997,Macho 4150 msnm,Macho Reproductivo,Macho4150Rep
+41EMI,4150 msnm,Reproductiva,Ileon,Macho,corrida1,23575,Macho 4150 msnm,Macho Reproductivo,Macho4150Rep
+41EMR,4150 msnm,Reproductiva,Recto,Macho,corrida1,20566,Macho 4150 msnm,Macho Reproductivo,Macho4150Rep
+41EMS,4150 msnm,Reproductiva,Estomago,Macho,corrida1,1827,Macho 4150 msnm,Macho Reproductivo,Macho4150Rep
+41M11S,4150 msnm,Reproductiva,Estomago,Macho,corrida3,6245,Macho 4150 msnm,Macho Reproductivo,Macho4150Rep
+41M11I,4150 msnm,Reproductiva,Ileon,Macho,corrida3,2829,Macho 4150 msnm,Macho Reproductivo,Macho4150Rep
+41M11R,4150 msnm,Reproductiva,Recto,Macho,corrida3,30342,Macho 4150 msnm,Macho Reproductivo,Macho4150Rep
+41M12S,4150 msnm,Reproductiva,Estomago,Macho,corrida3,1269,Macho 4150 msnm,Macho Reproductivo,Macho4150Rep
+41M12I,4150 msnm,Reproductiva,Ileon,Macho,corrida3,1894,Macho 4150 msnm,Macho Reproductivo,Macho4150Rep
+41M12R,4150 msnm,Reproductiva,Recto,Macho,corrida3,14204,Macho 4150 msnm,Macho Reproductivo,Macho4150Rep
+41M13S,4150 msnm,Reproductiva,Estomago,Macho,corrida3,904,Macho 4150 msnm,Macho Reproductivo,Macho4150Rep
+41M13I,4150 msnm,Reproductiva,Ileon,Macho,corrida3,6376,Macho 4150 msnm,Macho Reproductivo,Macho4150Rep
+41M13R,4150 msnm,Reproductiva,Recto,Macho,corrida3,13413,Macho 4150 msnm,Macho Reproductivo,Macho4150Rep
+41M14S,4150 msnm,Reproductiva,Estomago,Macho,corrida3,308,Macho 4150 msnm,Macho Reproductivo,Macho4150Rep
+41M14I,4150 msnm,Reproductiva,Ileon,Macho,corrida3,6441,Macho 4150 msnm,Macho Reproductivo,Macho4150Rep
+41M14R,4150 msnm,Reproductiva,Recto,Macho,corrida3,12931,Macho 4150 msnm,Macho Reproductivo,Macho4150Rep
+41M15S,4150 msnm,Reproductiva,Estomago,Macho,corrida3,704,Macho 4150 msnm,Macho Reproductivo,Macho4150Rep
+41M15I,4150 msnm,Reproductiva,Ileon,Macho,corrida3,1258,Macho 4150 msnm,Macho Reproductivo,Macho4150Rep
+41M15R,4150 msnm,Reproductiva,Recto,Macho,corrida3,2718,Macho 4150 msnm,Macho Reproductivo,Macho4150Rep
+41FI,4150 msnm,Reproductiva,Ileon,Hembra,corrida1,10365,Hembra 4150 msnm,Hembra Reproductiva,Hembra4150Rep
+41FR,4150 msnm,Reproductiva,Recto,Hembra,corrida1,23697,Hembra 4150 msnm,Hembra Reproductiva,Hembra4150Rep
+41FS,4150 msnm,Reproductiva,Estomago,Hembra,corrida1,9600,Hembra 4150 msnm,Hembra Reproductiva,Hembra4150Rep
+41AFI,4150 msnm,Reproductiva,Ileon,Hembra,corrida1,16910,Hembra 4150 msnm,Hembra Reproductiva,Hembra4150Rep
+41AFR,4150 msnm,Reproductiva,Recto,Hembra,corrida1,9658,Hembra 4150 msnm,Hembra Reproductiva,Hembra4150Rep
+41AFS,4150 msnm,Reproductiva,Estomago,Hembra,corrida1,15544,Hembra 4150 msnm,Hembra Reproductiva,Hembra4150Rep
+41DFI,4150 msnm,Reproductiva,Ileon,Hembra,corrida1,13404,Hembra 4150 msnm,Hembra Reproductiva,Hembra4150Rep
+41DFR,4150 msnm,Reproductiva,Recto,Hembra,corrida1,13406,Hembra 4150 msnm,Hembra Reproductiva,Hembra4150Rep
+41DFS,4150 msnm,Reproductiva,Estomago,Hembra,corrida1,16190,Hembra 4150 msnm,Hembra Reproductiva,Hembra4150Rep
+41JFI,4150 msnm,Reproductiva,Ileon,Hembra,corrida1,19641,Hembra 4150 msnm,Hembra Reproductiva,Hembra4150Rep
+41JFR,4150 msnm,Reproductiva,Recto,Hembra,corrida1,21847,Hembra 4150 msnm,Hembra Reproductiva,Hembra4150Rep
+41JFS,4150 msnm,Reproductiva,Estomago,Hembra,corrida1,10774,Hembra 4150 msnm,Hembra Reproductiva,Hembra4150Rep
+41FFI,4150 msnm,Reproductiva,Ileon,Hembra,corrida1,16162,Hembra 4150 msnm,Hembra Reproductiva,Hembra4150Rep
+41FFR,4150 msnm,Reproductiva,Recto,Hembra,corrida1,18772,Hembra 4150 msnm,Hembra Reproductiva,Hembra4150Rep
+41FFS,4150 msnm,Reproductiva,Estomago,Hembra,corrida1,7192,Hembra 4150 msnm,Hembra Reproductiva,Hembra4150Rep
+41FP16S,4150 msnm,Reproductiva,Estomago,Hembra,corrida3,262,Hembra 4150 msnm,Hembra Reproductiva,Hembra4150Rep
+41FP16I,4150 msnm,Reproductiva,Ileon,Hembra,corrida3,3828,Hembra 4150 msnm,Hembra Reproductiva,Hembra4150Rep
+41FP16R,4150 msnm,Reproductiva,Recto,Hembra,corrida3,1189,Hembra 4150 msnm,Hembra Reproductiva,Hembra4150Rep
+41FP17S,4150 msnm,Reproductiva,Estomago,Hembra,corrida3,1501,Hembra 4150 msnm,Hembra Reproductiva,Hembra4150Rep
+41FP17I,4150 msnm,Reproductiva,Ileon,Hembra,corrida3,390,Hembra 4150 msnm,Hembra Reproductiva,Hembra4150Rep
+41FP17R,4150 msnm,Reproductiva,Recto,Hembra,corrida3,94676,Hembra 4150 msnm,Hembra Reproductiva,Hembra4150Rep
+41FP18S,4150 msnm,Reproductiva,Estomago,Hembra,corrida3,710,Hembra 4150 msnm,Hembra Reproductiva,Hembra4150Rep
+41FP18I,4150 msnm,Reproductiva,Ileon,Hembra,corrida3,236,Hembra 4150 msnm,Hembra Reproductiva,Hembra4150Rep
+41FP18R,4150 msnm,Reproductiva,Recto,Hembra,corrida3,67816,Hembra 4150 msnm,Hembra Reproductiva,Hembra4150Rep
+41FP19S,4150 msnm,Reproductiva,Estomago,Hembra,corrida3,227,Hembra 4150 msnm,Hembra Reproductiva,Hembra4150Rep
+41FP19I,4150 msnm,Reproductiva,Ileon,Hembra,corrida3,232140,Hembra 4150 msnm,Hembra Reproductiva,Hembra4150Rep
+41FP19R,4150 msnm,Reproductiva,Recto,Hembra,corrida3,78626,Hembra 4150 msnm,Hembra Reproductiva,Hembra4150Rep
+41FP20S,4150 msnm,Reproductiva,Estomago,Hembra,corrida3,18943,Hembra 4150 msnm,Hembra Reproductiva,Hembra4150Rep
+41FP20I,4150 msnm,Reproductiva,Ileon,Hembra,corrida3,19647,Hembra 4150 msnm,Hembra Reproductiva,Hembra4150Rep
+41FP20R,4150 msnm,Reproductiva,Recto,Hembra,corrida3,97109,Hembra 4150 msnm,Hembra Reproductiva,Hembra4150Rep
+26MVAI,2600 msnm,No Reproductiva,Ileon,Macho,corrida2,13508,Macho 2600 msnm,Macho No Reproductivo,Macho2600NoRep
+26MVAR,2600 msnm,No Reproductiva,Recto,Macho,corrida2,24211,Macho 2600 msnm,Macho No Reproductivo,Macho2600NoRep
+26MVAS,2600 msnm,No Reproductiva,Estomago,Macho,corrida2,30373,Macho 2600 msnm,Macho No Reproductivo,Macho2600NoRep
+26MVBI,2600 msnm,No Reproductiva,Ileon,Macho,corrida2,740,Macho 2600 msnm,Macho No Reproductivo,Macho2600NoRep
+26MVBR,2600 msnm,No Reproductiva,Recto,Macho,corrida2,21009,Macho 2600 msnm,Macho No Reproductivo,Macho2600NoRep
+26MVBS,2600 msnm,No Reproductiva,Estomago,Macho,corrida2,23907,Macho 2600 msnm,Macho No Reproductivo,Macho2600NoRep
+26MVCI,2600 msnm,No Reproductiva,Ileon,Macho,corrida2,2328,Macho 2600 msnm,Macho No Reproductivo,Macho2600NoRep
+26MVCS,2600 msnm,No Reproductiva,Estomago,Macho,corrida2,11934,Macho 2600 msnm,Macho No Reproductivo,Macho2600NoRep
+26MVDI,2600 msnm,No Reproductiva,Ileon,Macho,corrida2,379,Macho 2600 msnm,Macho No Reproductivo,Macho2600NoRep
+26MVDR,2600 msnm,No Reproductiva,Recto,Macho,corrida2,40516,Macho 2600 msnm,Macho No Reproductivo,Macho2600NoRep
+26MVDS,2600 msnm,No Reproductiva,Estomago,Macho,corrida2,22515,Macho 2600 msnm,Macho No Reproductivo,Macho2600NoRep
+26MVEI,2600 msnm,No Reproductiva,Ileon,Macho,corrida2,419,Macho 2600 msnm,Macho No Reproductivo,Macho2600NoRep
+26MVER,2600 msnm,No Reproductiva,Recto,Macho,corrida2,22418,Macho 2600 msnm,Macho No Reproductivo,Macho2600NoRep
+26MVES,2600 msnm,No Reproductiva,Estomago,Macho,corrida2,743,Macho 2600 msnm,Macho No Reproductivo,Macho2600NoRep
+26M5S,2600 msnm,No Reproductiva,Estomago,Macho,corrida3,958,Macho 2600 msnm,Macho No Reproductivo,Macho2600NoRep
+26M5I,2600 msnm,No Reproductiva,Ileon,Macho,corrida3,1134,Macho 2600 msnm,Macho No Reproductivo,Macho2600NoRep
+26M5R,2600 msnm,No Reproductiva,Recto,Macho,corrida3,27836,Macho 2600 msnm,Macho No Reproductivo,Macho2600NoRep
+26M10S,2600 msnm,No Reproductiva,Estomago,Macho,corrida3,2780,Macho 2600 msnm,Macho No Reproductivo,Macho2600NoRep
+26M10I,2600 msnm,No Reproductiva,Ileon,Macho,corrida3,470,Macho 2600 msnm,Macho No Reproductivo,Macho2600NoRep
+26M2S,2600 msnm,No Reproductiva,Estomago,Macho,corrida3,42880,Macho 2600 msnm,Macho No Reproductivo,Macho2600NoRep
+26M2I,2600 msnm,No Reproductiva,Ileon,Macho,corrida3,21580,Macho 2600 msnm,Macho No Reproductivo,Macho2600NoRep
+26M2R,2600 msnm,No Reproductiva,Recto,Macho,corrida3,25386,Macho 2600 msnm,Macho No Reproductivo,Macho2600NoRep
+26M9S,2600 msnm,No Reproductiva,Estomago,Macho,corrida3,21048,Macho 2600 msnm,Macho No Reproductivo,Macho2600NoRep
+26M9I,2600 msnm,No Reproductiva,Ileon,Macho,corrida3,1265,Macho 2600 msnm,Macho No Reproductivo,Macho2600NoRep
+26M9R,2600 msnm,No Reproductiva,Recto,Macho,corrida3,152034,Macho 2600 msnm,Macho No Reproductivo,Macho2600NoRep
+26M6S,2600 msnm,No Reproductiva,Estomago,Macho,corrida3,699,Macho 2600 msnm,Macho No Reproductivo,Macho2600NoRep
+26M6I,2600 msnm,No Reproductiva,Ileon,Macho,corrida3,72,Macho 2600 msnm,Macho No Reproductivo,Macho2600NoRep
+26M6R,2600 msnm,No Reproductiva,Recto,Macho,corrida3,20024,Macho 2600 msnm,Macho No Reproductivo,Macho2600NoRep
+26FV1I,2600 msnm,No Reproductiva,Ileon,Hembra,corrida2,6516,Hembra 2600 msnm,Hembra No Reproductiva,Hembra2600NoRep
+26FV1R,2600 msnm,No Reproductiva,Recto,Hembra,corrida2,10936,Hembra 2600 msnm,Hembra No Reproductiva,Hembra2600NoRep
+26FV1S,2600 msnm,No Reproductiva,Estomago,Hembra,corrida2,7895,Hembra 2600 msnm,Hembra No Reproductiva,Hembra2600NoRep
+26FV2I,2600 msnm,No Reproductiva,Ileon,Hembra,corrida2,10297,Hembra 2600 msnm,Hembra No Reproductiva,Hembra2600NoRep
+26FV2R,2600 msnm,No Reproductiva,Recto,Hembra,corrida2,7743,Hembra 2600 msnm,Hembra No Reproductiva,Hembra2600NoRep
+26FV2S,2600 msnm,No Reproductiva,Estomago,Hembra,corrida2,10733,Hembra 2600 msnm,Hembra No Reproductiva,Hembra2600NoRep
+26FV3I,2600 msnm,No Reproductiva,Ileon,Hembra,corrida2,6501,Hembra 2600 msnm,Hembra No Reproductiva,Hembra2600NoRep
+26FV3R,2600 msnm,No Reproductiva,Recto,Hembra,corrida2,6401,Hembra 2600 msnm,Hembra No Reproductiva,Hembra2600NoRep
+26FV3S,2600 msnm,No Reproductiva,Estomago,Hembra,corrida2,11144,Hembra 2600 msnm,Hembra No Reproductiva,Hembra2600NoRep
+26FV4I,2600 msnm,No Reproductiva,Ileon,Hembra,corrida2,10405,Hembra 2600 msnm,Hembra No Reproductiva,Hembra2600NoRep
+26FV4R,2600 msnm,No Reproductiva,Recto,Hembra,corrida2,12455,Hembra 2600 msnm,Hembra No Reproductiva,Hembra2600NoRep
+26FV4S,2600 msnm,No Reproductiva,Estomago,Hembra,corrida2,10651,Hembra 2600 msnm,Hembra No Reproductiva,Hembra2600NoRep
+26FV5I,2600 msnm,No Reproductiva,Ileon,Hembra,corrida2,13672,Hembra 2600 msnm,Hembra No Reproductiva,Hembra2600NoRep
+26FV5R,2600 msnm,No Reproductiva,Recto,Hembra,corrida2,13351,Hembra 2600 msnm,Hembra No Reproductiva,Hembra2600NoRep
+26FV5S,2600 msnm,No Reproductiva,Estomago,Hembra,corrida2,10426,Hembra 2600 msnm,Hembra No Reproductiva,Hembra2600NoRep
+26H2S,2600 msnm,No Reproductiva,Estomago,Hembra,corrida3,2693,Hembra 2600 msnm,Hembra No Reproductiva,Hembra2600NoRep
+26H2I,2600 msnm,No Reproductiva,Ileon,Hembra,corrida3,6409,Hembra 2600 msnm,Hembra No Reproductiva,Hembra2600NoRep
+26H2R,2600 msnm,No Reproductiva,Recto,Hembra,corrida3,33737,Hembra 2600 msnm,Hembra No Reproductiva,Hembra2600NoRep
+26H4S,2600 msnm,No Reproductiva,Estomago,Hembra,corrida3,5408,Hembra 2600 msnm,Hembra No Reproductiva,Hembra2600NoRep
+26H4I,2600 msnm,No Reproductiva,Ileon,Hembra,corrida3,1962,Hembra 2600 msnm,Hembra No Reproductiva,Hembra2600NoRep
+26H4R,2600 msnm,No Reproductiva,Recto,Hembra,corrida3,46132,Hembra 2600 msnm,Hembra No Reproductiva,Hembra2600NoRep
+26H7S,2600 msnm,No Reproductiva,Estomago,Hembra,corrida3,7869,Hembra 2600 msnm,Hembra No Reproductiva,Hembra2600NoRep
+26H7I,2600 msnm,No Reproductiva,Ileon,Hembra,corrida3,6591,Hembra 2600 msnm,Hembra No Reproductiva,Hembra2600NoRep
+26H7R,2600 msnm,No Reproductiva,Recto,Hembra,corrida3,33989,Hembra 2600 msnm,Hembra No Reproductiva,Hembra2600NoRep
+26H8S,2600 msnm,No Reproductiva,Estomago,Hembra,corrida3,5865,Hembra 2600 msnm,Hembra No Reproductiva,Hembra2600NoRep
+26H8I,2600 msnm,No Reproductiva,Ileon,Hembra,corrida3,7503,Hembra 2600 msnm,Hembra No Reproductiva,Hembra2600NoRep
+26H8R,2600 msnm,No Reproductiva,Recto,Hembra,corrida3,65875,Hembra 2600 msnm,Hembra No Reproductiva,Hembra2600NoRep
+26H3S,2600 msnm,No Reproductiva,Estomago,Hembra,corrida3,10312,Hembra 2600 msnm,Hembra No Reproductiva,Hembra2600NoRep
+26H3I,2600 msnm,No Reproductiva,Ileon,Hembra,corrida3,2635,Hembra 2600 msnm,Hembra No Reproductiva,Hembra2600NoRep
+26H3R,2600 msnm,No Reproductiva,Recto,Hembra,corrida3,18750,Hembra 2600 msnm,Hembra No Reproductiva,Hembra2600NoRep
+41MVAI,4150 msnm,No Reproductiva,Ileon,Macho,corrida2,7849,Macho 4150 msnm,Macho No Reproductivo,Macho4150NoRep
+41MVAR,4150 msnm,No Reproductiva,Recto,Macho,corrida2,11982,Macho 4150 msnm,Macho No Reproductivo,Macho4150NoRep
+41MVAS,4150 msnm,No Reproductiva,Estomago,Macho,corrida2,11332,Macho 4150 msnm,Macho No Reproductivo,Macho4150NoRep
+41MVBI,4150 msnm,No Reproductiva,Ileon,Macho,corrida2,10380,Macho 4150 msnm,Macho No Reproductivo,Macho4150NoRep
+41MVBR,4150 msnm,No Reproductiva,Recto,Macho,corrida2,8069,Macho 4150 msnm,Macho No Reproductivo,Macho4150NoRep
+41MVBS,4150 msnm,No Reproductiva,Estomago,Macho,corrida2,5882,Macho 4150 msnm,Macho No Reproductivo,Macho4150NoRep
+41MVCI,4150 msnm,No Reproductiva,Ileon,Macho,corrida2,1133,Macho 4150 msnm,Macho No Reproductivo,Macho4150NoRep
+41MVCR,4150 msnm,No Reproductiva,Recto,Macho,corrida2,18177,Macho 4150 msnm,Macho No Reproductivo,Macho4150NoRep
+41MVCS,4150 msnm,No Reproductiva,Estomago,Macho,corrida2,6428,Macho 4150 msnm,Macho No Reproductivo,Macho4150NoRep
+41MVDI,4150 msnm,No Reproductiva,Ileon,Macho,corrida2,6382,Macho 4150 msnm,Macho No Reproductivo,Macho4150NoRep
+41MVDR,4150 msnm,No Reproductiva,Recto,Macho,corrida2,2698,Macho 4150 msnm,Macho No Reproductivo,Macho4150NoRep
+41MVDS,4150 msnm,No Reproductiva,Estomago,Macho,corrida2,7695,Macho 4150 msnm,Macho No Reproductivo,Macho4150NoRep
+41MVEI,4150 msnm,No Reproductiva,Ileon,Macho,corrida2,24294,Macho 4150 msnm,Macho No Reproductivo,Macho4150NoRep
+41MVER,4150 msnm,No Reproductiva,Recto,Macho,corrida2,36369,Macho 4150 msnm,Macho No Reproductivo,Macho4150NoRep
+41MVES,4150 msnm,No Reproductiva,Estomago,Macho,corrida2,16075,Macho 4150 msnm,Macho No Reproductivo,Macho4150NoRep
+M1S,4150 msnm,No Reproductiva,Estomago,Macho,corrida3,11114,Macho 4150 msnm,Macho No Reproductivo,Macho4150NoRep
+M1I,4150 msnm,No Reproductiva,Ileon,Macho,corrida3,1970,Macho 4150 msnm,Macho No Reproductivo,Macho4150NoRep
+M1R,4150 msnm,No Reproductiva,Recto,Macho,corrida3,17351,Macho 4150 msnm,Macho No Reproductivo,Macho4150NoRep
+M3S,4150 msnm,No Reproductiva,Estomago,Macho,corrida3,10755,Macho 4150 msnm,Macho No Reproductivo,Macho4150NoRep
+M3I,4150 msnm,No Reproductiva,Ileon,Macho,corrida3,15222,Macho 4150 msnm,Macho No Reproductivo,Macho4150NoRep
+M3R,4150 msnm,No Reproductiva,Recto,Macho,corrida3,19338,Macho 4150 msnm,Macho No Reproductivo,Macho4150NoRep
+M4S,4150 msnm,No Reproductiva,Estomago,Macho,corrida3,965,Macho 4150 msnm,Macho No Reproductivo,Macho4150NoRep
+M4I,4150 msnm,No Reproductiva,Ileon,Macho,corrida3,14103,Macho 4150 msnm,Macho No Reproductivo,Macho4150NoRep
+M4R,4150 msnm,No Reproductiva,Recto,Macho,corrida3,14252,Macho 4150 msnm,Macho No Reproductivo,Macho4150NoRep
+M5S,4150 msnm,No Reproductiva,Estomago,Macho,corrida3,6923,Macho 4150 msnm,Macho No Reproductivo,Macho4150NoRep
+M5I,4150 msnm,No Reproductiva,Ileon,Macho,corrida3,452,Macho 4150 msnm,Macho No Reproductivo,Macho4150NoRep
+M5R,4150 msnm,No Reproductiva,Recto,Macho,corrida3,19717,Macho 4150 msnm,Macho No Reproductivo,Macho4150NoRep
+M2S,4150 msnm,No Reproductiva,Estomago,Macho,corrida3,11400,Macho 4150 msnm,Macho No Reproductivo,Macho4150NoRep
+M2I,4150 msnm,No Reproductiva,Ileon,Macho,corrida3,549,Macho 4150 msnm,Macho No Reproductivo,Macho4150NoRep
+M2R,4150 msnm,No Reproductiva,Recto,Macho,corrida3,18578,Macho 4150 msnm,Macho No Reproductivo,Macho4150NoRep
+41FV1I,4150 msnm,No Reproductiva,Ileon,Hembra,corrida2,1269,Hembra 4150 msnm,Hembra No Reproductiva,Hembra4150NoRep
+41FV1R,4150 msnm,No Reproductiva,Recto,Hembra,corrida2,6693,Hembra 4150 msnm,Hembra No Reproductiva,Hembra4150NoRep
+41FV1S,4150 msnm,No Reproductiva,Estomago,Hembra,corrida2,6107,Hembra 4150 msnm,Hembra No Reproductiva,Hembra4150NoRep
+41FV2I,4150 msnm,No Reproductiva,Ileon,Hembra,corrida2,528,Hembra 4150 msnm,Hembra No Reproductiva,Hembra4150NoRep
+41FV2R,4150 msnm,No Reproductiva,Recto,Hembra,corrida2,3110,Hembra 4150 msnm,Hembra No Reproductiva,Hembra4150NoRep
+41FV2S,4150 msnm,No Reproductiva,Estomago,Hembra,corrida2,4417,Hembra 4150 msnm,Hembra No Reproductiva,Hembra4150NoRep
+41FV3I,4150 msnm,No Reproductiva,Ileon,Hembra,corrida2,1728,Hembra 4150 msnm,Hembra No Reproductiva,Hembra4150NoRep
+41FV3R,4150 msnm,No Reproductiva,Recto,Hembra,corrida2,1381,Hembra 4150 msnm,Hembra No Reproductiva,Hembra4150NoRep
+41FV3S,4150 msnm,No Reproductiva,Estomago,Hembra,corrida2,4927,Hembra 4150 msnm,Hembra No Reproductiva,Hembra4150NoRep
+41FV4I,4150 msnm,No Reproductiva,Ileon,Hembra,corrida2,3164,Hembra 4150 msnm,Hembra No Reproductiva,Hembra4150NoRep
+41FV4R,4150 msnm,No Reproductiva,Recto,Hembra,corrida2,4726,Hembra 4150 msnm,Hembra No Reproductiva,Hembra4150NoRep
+41FV4S,4150 msnm,No Reproductiva,Estomago,Hembra,corrida2,4837,Hembra 4150 msnm,Hembra No Reproductiva,Hembra4150NoRep
+41FV5I,4150 msnm,No Reproductiva,Ileon,Hembra,corrida2,4793,Hembra 4150 msnm,Hembra No Reproductiva,Hembra4150NoRep
+41FV5R,4150 msnm,No Reproductiva,Recto,Hembra,corrida2,67356,Hembra 4150 msnm,Hembra No Reproductiva,Hembra4150NoRep
+41FV5S,4150 msnm,No Reproductiva,Estomago,Hembra,corrida2,41,Hembra 4150 msnm,Hembra No Reproductiva,Hembra4150NoRep
+H31S,4150 msnm,No Reproductiva,Estomago,Hembra,corrida3,12441,Hembra 4150 msnm,Hembra No Reproductiva,Hembra4150NoRep
+H31I,4150 msnm,No Reproductiva,Ileon,Hembra,corrida3,47212,Hembra 4150 msnm,Hembra No Reproductiva,Hembra4150NoRep
+H31R,4150 msnm,No Reproductiva,Recto,Hembra,corrida3,16632,Hembra 4150 msnm,Hembra No Reproductiva,Hembra4150NoRep
+H32S,4150 msnm,No Reproductiva,Estomago,Hembra,corrida3,7763,Hembra 4150 msnm,Hembra No Reproductiva,Hembra4150NoRep
+H32I,4150 msnm,No Reproductiva,Ileon,Hembra,corrida3,9721,Hembra 4150 msnm,Hembra No Reproductiva,Hembra4150NoRep
+H32R,4150 msnm,No Reproductiva,Recto,Hembra,corrida3,21698,Hembra 4150 msnm,Hembra No Reproductiva,Hembra4150NoRep
+H33S,4150 msnm,No Reproductiva,Estomago,Hembra,corrida3,1952,Hembra 4150 msnm,Hembra No Reproductiva,Hembra4150NoRep
+H33I,4150 msnm,No Reproductiva,Ileon,Hembra,corrida3,6873,Hembra 4150 msnm,Hembra No Reproductiva,Hembra4150NoRep
+H33R,4150 msnm,No Reproductiva,Recto,Hembra,corrida3,21888,Hembra 4150 msnm,Hembra No Reproductiva,Hembra4150NoRep
+H34S,4150 msnm,No Reproductiva,Estomago,Hembra,corrida3,9633,Hembra 4150 msnm,Hembra No Reproductiva,Hembra4150NoRep
+H34I,4150 msnm,No Reproductiva,Ileon,Hembra,corrida3,26577,Hembra 4150 msnm,Hembra No Reproductiva,Hembra4150NoRep
+H34R,4150 msnm,No Reproductiva,Recto,Hembra,corrida3,18371,Hembra 4150 msnm,Hembra No Reproductiva,Hembra4150NoRep
+H35S,4150 msnm,No Reproductiva,Estomago,Hembra,corrida3,913,Hembra 4150 msnm,Hembra No Reproductiva,Hembra4150NoRep
+H35I,4150 msnm,No Reproductiva,Ileon,Hembra,corrida3,19975,Hembra 4150 msnm,Hembra No Reproductiva,Hembra4150NoRep
+H35R,4150 msnm,No Reproductiva,Recto,Hembra,corrida3,15339,Hembra 4150 msnm,Hembra No Reproductiva,Hembra4150NoRep

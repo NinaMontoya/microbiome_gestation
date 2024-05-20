@@ -1,0 +1,239 @@
+ID	poblacion	temporada	seccion	sexo	corrida	profundidad 
+265MI	2600 msnm	Reproductiva	Ileon	Macho	corrida1	5422
+265MR	2600 msnm	Reproductiva	Recto	Macho	corrida1	704
+265MS	2600 msnm	Reproductiva	Estomago	Macho	corrida1	17910
+263MI	2600 msnm	Reproductiva	Ileon	Macho	corrida1	3218
+263MR	2600 msnm	Reproductiva	Recto	Macho	corrida1	12862
+263MS	2600 msnm	Reproductiva	Estomago	Macho	corrida1	12394
+261MI	2600 msnm	Reproductiva	Ileon	Macho	corrida1	6798
+261MR	2600 msnm	Reproductiva	Recto	Macho	corrida1	11279
+261MS	2600 msnm	Reproductiva	Estomago	Macho	corrida1	2642
+264MI	2600 msnm	Reproductiva	Ileon	Macho	corrida1	12196
+264MR	2600 msnm	Reproductiva	Recto	Macho	corrida1	8316
+264MS	2600 msnm	Reproductiva	Estomago	Macho	corrida1	172
+262MI	2600 msnm	Reproductiva	Ileon	Macho	corrida1	8401
+262MR	2600 msnm	Reproductiva	Recto	Macho	corrida1	5036
+262MS	2600 msnm	Reproductiva	Estomago	Macho	corrida1	294
+26M6ScS	2600 msnm	Reproductiva	Estomago	Macho	corrida3	289
+26M6ScI	2600 msnm	Reproductiva	Ileon	Macho	corrida3	983
+26M6ScR	2600 msnm	Reproductiva	Recto	Macho	corrida3	7005
+26M2ScS	2600 msnm	Reproductiva	Estomago	Macho	corrida3	1141
+26M2ScI	2600 msnm	Reproductiva	Ileon	Macho	corrida3	472
+26M2ScR	2600 msnm	Reproductiva	Recto	Macho	corrida3	18656
+26M14S	2600 msnm	Reproductiva	Estomago	Macho	corrida3	2897
+26M14I	2600 msnm	Reproductiva	Ileon	Macho	corrida3	506
+26M14R	2600 msnm	Reproductiva	Recto	Macho	corrida3	6214
+26M19S	2600 msnm	Reproductiva	Estomago	Macho	corrida3	2263
+26M19I	2600 msnm	Reproductiva	Ileon	Macho	corrida3	253
+26M19R	2600 msnm	Reproductiva	Recto	Macho	corrida3	9168
+26M4ScS	2600 msnm	Reproductiva	Estomago	Macho	corrida3	676
+26M4ScI	2600 msnm	Reproductiva	Ileon	Macho	corrida3	1608
+26M4ScR	2600 msnm	Reproductiva	Recto	Macho	corrida3	24023
+26CFI	2600 msnm	Reproductiva	Ileon	Hembra	corrida1	20653
+26CFR	2600 msnm	Reproductiva	Recto	Hembra	corrida1	10733
+26CFS	2600 msnm	Reproductiva	Estomago	Hembra	corrida1	76
+26BFI	2600 msnm	Reproductiva	Ileon	Hembra	corrida1	8474
+26BFR	2600 msnm	Reproductiva	Recto	Hembra	corrida1	16380
+26BFS	2600 msnm	Reproductiva	Estomago	Hembra	corrida1	7943
+26DFI	2600 msnm	Reproductiva	Ileon	Hembra	corrida1	12378
+26DFR	2600 msnm	Reproductiva	Recto	Hembra	corrida1	21146
+26DFS	2600 msnm	Reproductiva	Estomago	Hembra	corrida1	804
+26AFI	2600 msnm	Reproductiva	Ileon	Hembra	corrida1	20250
+26AFR	2600 msnm	Reproductiva	Recto	Hembra	corrida1	8021
+26AFS	2600 msnm	Reproductiva	Estomago	Hembra	corrida1	21433
+26EFI	2600 msnm	Reproductiva	Ileon	Hembra	corrida1	12939
+26EFR	2600 msnm	Reproductiva	Recto	Hembra	corrida1	11270
+26EFS	2600 msnm	Reproductiva	Estomago	Hembra	corrida1	666
+26FP3S	2600 msnm	Reproductiva	Estomago	Hembra	corrida3	934
+26FP3I	2600 msnm	Reproductiva	Ileon	Hembra	corrida3	16
+26FP3R	2600 msnm	Reproductiva	Recto	Hembra	corrida3	27612
+26FP7S	2600 msnm	Reproductiva	Estomago	Hembra	corrida3	559
+26FP7I	2600 msnm	Reproductiva	Ileon	Hembra	corrida3	345
+26FP7R	2600 msnm	Reproductiva	Recto	Hembra	corrida3	24893
+26FP16S	2600 msnm	Reproductiva	Estomago	Hembra	corrida3	152
+26FP16I	2600 msnm	Reproductiva	Ileon	Hembra	corrida3	37
+26FP16R	2600 msnm	Reproductiva	Recto	Hembra	corrida3	13180
+26FP8S	2600 msnm	Reproductiva	Estomago	Hembra	corrida3	37
+26FP8I	2600 msnm	Reproductiva	Ileon	Hembra	corrida3	1212
+26FP8R	2600 msnm	Reproductiva	Recto	Hembra	corrida3	22983
+26FP12S	2600 msnm	Reproductiva	Estomago	Hembra	corrida3	23386
+26FP12I	2600 msnm	Reproductiva	Ileon	Hembra	corrida3	9752
+26FP12R	2600 msnm	Reproductiva	Recto	Hembra	corrida3	16261
+4110MI	4150 msnm	Reproductiva	Ileon	Macho	corrida1	9428
+4110MR	4150 msnm	Reproductiva	Recto	Macho	corrida1	23179
+4110MS	4150 msnm	Reproductiva	Estomago	Macho	corrida1	15411
+41JMI	4150 msnm	Reproductiva	Ileon	Macho	corrida1	11748
+41JMR	4150 msnm	Reproductiva	Recto	Macho	corrida1	7689
+41JMS	4150 msnm	Reproductiva	Estomago	Macho	corrida1	3491
+41IMI	4150 msnm	Reproductiva	Ileon	Macho	corrida1	8166
+41IMR	4150 msnm	Reproductiva	Recto	Macho	corrida1	15688
+41IMS	4150 msnm	Reproductiva	Estomago	Macho	corrida1	12163
+41GMI	4150 msnm	Reproductiva	Ileon	Macho	corrida1	6201
+41GMR	4150 msnm	Reproductiva	Recto	Macho	corrida1	20136
+41GMS	4150 msnm	Reproductiva	Estomago	Macho	corrida1	11997
+41EMI	4150 msnm	Reproductiva	Ileon	Macho	corrida1	23575
+41EMR	4150 msnm	Reproductiva	Recto	Macho	corrida1	20566
+41EMS	4150 msnm	Reproductiva	Estomago	Macho	corrida1	1827
+41M11S	4150 msnm	Reproductiva	Estomago	Macho	corrida3	6245
+41M11I	4150 msnm	Reproductiva	Ileon	Macho	corrida3	2829
+41M11R	4150 msnm	Reproductiva	Recto	Macho	corrida3	30342
+41M12S	4150 msnm	Reproductiva	Estomago	Macho	corrida3	1269
+41M12I	4150 msnm	Reproductiva	Ileon	Macho	corrida3	1894
+41M12R	4150 msnm	Reproductiva	Recto	Macho	corrida3	14204
+41M13S	4150 msnm	Reproductiva	Estomago	Macho	corrida3	904
+41M13I	4150 msnm	Reproductiva	Ileon	Macho	corrida3	6376
+41M13R	4150 msnm	Reproductiva	Recto	Macho	corrida3	13413
+41M14S	4150 msnm	Reproductiva	Estomago	Macho	corrida3	308
+41M14I	4150 msnm	Reproductiva	Ileon	Macho	corrida3	6441
+41M14R	4150 msnm	Reproductiva	Recto	Macho	corrida3	12931
+41M15S	4150 msnm	Reproductiva	Estomago	Macho	corrida3	704
+41M15I	4150 msnm	Reproductiva	Ileon	Macho	corrida3	1258
+41M15R	4150 msnm	Reproductiva	Recto	Macho	corrida3	2718
+41FI	4150 msnm	Reproductiva	Ileon	Hembra	corrida1	10365
+41FR	4150 msnm	Reproductiva	Recto	Hembra	corrida1	23697
+41FS	4150 msnm	Reproductiva	Estomago	Hembra	corrida1	9600
+41AFI	4150 msnm	Reproductiva	Ileon	Hembra	corrida1	16910
+41AFR	4150 msnm	Reproductiva	Recto	Hembra	corrida1	9658
+41AFS	4150 msnm	Reproductiva	Estomago	Hembra	corrida1	15544
+41DFI	4150 msnm	Reproductiva	Ileon	Hembra	corrida1	13404
+41DFR	4150 msnm	Reproductiva	Recto	Hembra	corrida1	13406
+41DFS	4150 msnm	Reproductiva	Estomago	Hembra	corrida1	16190
+41JFI	4150 msnm	Reproductiva	Ileon	Hembra	corrida1	19641
+41JFR	4150 msnm	Reproductiva	Recto	Hembra	corrida1	21847
+41JFS	4150 msnm	Reproductiva	Estomago	Hembra	corrida1	10774
+41FFI	4150 msnm	Reproductiva	Ileon	Hembra	corrida1	16162
+41FFR	4150 msnm	Reproductiva	Recto	Hembra	corrida1	18772
+41FFS	4150 msnm	Reproductiva	Estomago	Hembra	corrida1	7192
+41FP16S	4150 msnm	Reproductiva	Estomago	Hembra	corrida3	262
+41FP16I	4150 msnm	Reproductiva	Ileon	Hembra	corrida3	3828
+41FP16R	4150 msnm	Reproductiva	Recto	Hembra	corrida3	1189
+41FP17S	4150 msnm	Reproductiva	Estomago	Hembra	corrida3	1501
+41FP17I	4150 msnm	Reproductiva	Ileon	Hembra	corrida3	390
+41FP17R	4150 msnm	Reproductiva	Recto	Hembra	corrida3	94676
+41FP18S	4150 msnm	Reproductiva	Estomago	Hembra	corrida3	710
+41FP18I	4150 msnm	Reproductiva	Ileon	Hembra	corrida3	236
+41FP18R	4150 msnm	Reproductiva	Recto	Hembra	corrida3	67816
+41FP19S	4150 msnm	Reproductiva	Estomago	Hembra	corrida3	227
+41FP19I	4150 msnm	Reproductiva	Ileon	Hembra	corrida3	232140
+41FP19R	4150 msnm	Reproductiva	Recto	Hembra	corrida3	78626
+41FP20S	4150 msnm	Reproductiva	Estomago	Hembra	corrida3	18943
+41FP20I	4150 msnm	Reproductiva	Ileon	Hembra	corrida3	19647
+41FP20R	4150 msnm	Reproductiva	Recto	Hembra	corrida3	97109
+26MVAI	2600 msnm	No Reproductiva	Ileon	Macho	corrida2	13508
+26MVAR	2600 msnm	No Reproductiva	Recto	Macho	corrida2	24211
+26MVAS	2600 msnm	No Reproductiva	Estomago	Macho	corrida2	30373
+26MVBI	2600 msnm	No Reproductiva	Ileon	Macho	corrida2	740
+26MVBR	2600 msnm	No Reproductiva	Recto	Macho	corrida2	21009
+26MVBS	2600 msnm	No Reproductiva	Estomago	Macho	corrida2	23907
+26MVCI	2600 msnm	No Reproductiva	Ileon	Macho	corrida2	2328
+26MVCS	2600 msnm	No Reproductiva	Estomago	Macho	corrida2	11934
+26MVDI	2600 msnm	No Reproductiva	Ileon	Macho	corrida2	379
+26MVDR	2600 msnm	No Reproductiva	Recto	Macho	corrida2	40516
+26MVDS	2600 msnm	No Reproductiva	Estomago	Macho	corrida2	22515
+26MVEI	2600 msnm	No Reproductiva	Ileon	Macho	corrida2	419
+26MVER	2600 msnm	No Reproductiva	Recto	Macho	corrida2	22418
+26MVES	2600 msnm	No Reproductiva	Estomago	Macho	corrida2	743
+26M5S	2600 msnm	No Reproductiva	Estomago	Macho	corrida3	958
+26M5I	2600 msnm	No Reproductiva	Ileon	Macho	corrida3	1134
+26M5R	2600 msnm	No Reproductiva	Recto	Macho	corrida3	27836
+26M10S	2600 msnm	No Reproductiva	Estomago	Macho	corrida3	2780
+26M10I	2600 msnm	No Reproductiva	Ileon	Macho	corrida3	470
+26M2S	2600 msnm	No Reproductiva	Estomago	Macho	corrida3	42880
+26M2I	2600 msnm	No Reproductiva	Ileon	Macho	corrida3	21580
+26M2R	2600 msnm	No Reproductiva	Recto	Macho	corrida3	25386
+26M9S	2600 msnm	No Reproductiva	Estomago	Macho	corrida3	21048
+26M9I	2600 msnm	No Reproductiva	Ileon	Macho	corrida3	1265
+26M9R	2600 msnm	No Reproductiva	Recto	Macho	corrida3	152034
+26M6S	2600 msnm	No Reproductiva	Estomago	Macho	corrida3	699
+26M6I	2600 msnm	No Reproductiva	Ileon	Macho	corrida3	72
+26M6R	2600 msnm	No Reproductiva	Recto	Macho	corrida3	20024
+26FV1I	2600 msnm	No Reproductiva	Ileon	Hembra	corrida2	6516
+26FV1R	2600 msnm	No Reproductiva	Recto	Hembra	corrida2	10936
+26FV1S	2600 msnm	No Reproductiva	Estomago	Hembra	corrida2	7895
+26FV2I	2600 msnm	No Reproductiva	Ileon	Hembra	corrida2	10297
+26FV2R	2600 msnm	No Reproductiva	Recto	Hembra	corrida2	7743
+26FV2S	2600 msnm	No Reproductiva	Estomago	Hembra	corrida2	10733
+26FV3I	2600 msnm	No Reproductiva	Ileon	Hembra	corrida2	6501
+26FV3R	2600 msnm	No Reproductiva	Recto	Hembra	corrida2	6401
+26FV3S	2600 msnm	No Reproductiva	Estomago	Hembra	corrida2	11144
+26FV4I	2600 msnm	No Reproductiva	Ileon	Hembra	corrida2	10405
+26FV4R	2600 msnm	No Reproductiva	Recto	Hembra	corrida2	12455
+26FV4S	2600 msnm	No Reproductiva	Estomago	Hembra	corrida2	10651
+26FV5I	2600 msnm	No Reproductiva	Ileon	Hembra	corrida2	13672
+26FV5R	2600 msnm	No Reproductiva	Recto	Hembra	corrida2	13351
+26FV5S	2600 msnm	No Reproductiva	Estomago	Hembra	corrida2	10426
+26H2S	2600 msnm	No Reproductiva	Estomago	Hembra	corrida3	2693
+26H2I	2600 msnm	No Reproductiva	Ileon	Hembra	corrida3	6409
+26H2R	2600 msnm	No Reproductiva	Recto	Hembra	corrida3	33737
+26H4S	2600 msnm	No Reproductiva	Estomago	Hembra	corrida3	5408
+26H4I	2600 msnm	No Reproductiva	Ileon	Hembra	corrida3	1962
+26H4R	2600 msnm	No Reproductiva	Recto	Hembra	corrida3	46132
+26H7S	2600 msnm	No Reproductiva	Estomago	Hembra	corrida3	7869
+26H7I	2600 msnm	No Reproductiva	Ileon	Hembra	corrida3	6591
+26H7R	2600 msnm	No Reproductiva	Recto	Hembra	corrida3	33989
+26H8S	2600 msnm	No Reproductiva	Estomago	Hembra	corrida3	5865
+26H8I	2600 msnm	No Reproductiva	Ileon	Hembra	corrida3	7503
+26H8R	2600 msnm	No Reproductiva	Recto	Hembra	corrida3	65875
+26H3S	2600 msnm	No Reproductiva	Estomago	Hembra	corrida3	10312
+26H3I	2600 msnm	No Reproductiva	Ileon	Hembra	corrida3	2635
+26H3R	2600 msnm	No Reproductiva	Recto	Hembra	corrida3	18750
+41MVAI	4150 msnm	No Reproductiva	Ileon	Macho	corrida2	7849
+41MVAR	4150 msnm	No Reproductiva	Recto	Macho	corrida2	11982
+41MVAS	4150 msnm	No Reproductiva	Estomago	Macho	corrida2	11332
+41MVBI	4150 msnm	No Reproductiva	Ileon	Macho	corrida2	10380
+41MVBR	4150 msnm	No Reproductiva	Recto	Macho	corrida2	8069
+41MVBS	4150 msnm	No Reproductiva	Estomago	Macho	corrida2	5882
+41MVCI	4150 msnm	No Reproductiva	Ileon	Macho	corrida2	1133
+41MVCR	4150 msnm	No Reproductiva	Recto	Macho	corrida2	18177
+41MVCS	4150 msnm	No Reproductiva	Estomago	Macho	corrida2	6428
+41MVDI	4150 msnm	No Reproductiva	Ileon	Macho	corrida2	6382
+41MVDR	4150 msnm	No Reproductiva	Recto	Macho	corrida2	2698
+41MVDS	4150 msnm	No Reproductiva	Estomago	Macho	corrida2	7695
+41MVEI	4150 msnm	No Reproductiva	Ileon	Macho	corrida2	24294
+41MVER	4150 msnm	No Reproductiva	Recto	Macho	corrida2	36369
+41MVES	4150 msnm	No Reproductiva	Estomago	Macho	corrida2	16075
+M1S	4150 msnm	No Reproductiva	Estomago	Macho	corrida3	11114
+M1I	4150 msnm	No Reproductiva	Ileon	Macho	corrida3	1970
+M1R	4150 msnm	No Reproductiva	Recto	Macho	corrida3	17351
+M3S	4150 msnm	No Reproductiva	Estomago	Macho	corrida3	10755
+M3I	4150 msnm	No Reproductiva	Ileon	Macho	corrida3	15222
+M3R	4150 msnm	No Reproductiva	Recto	Macho	corrida3	19338
+M4S	4150 msnm	No Reproductiva	Estomago	Macho	corrida3	965
+M4I	4150 msnm	No Reproductiva	Ileon	Macho	corrida3	14103
+M4R	4150 msnm	No Reproductiva	Recto	Macho	corrida3	14252
+M5S	4150 msnm	No Reproductiva	Estomago	Macho	corrida3	6923
+M5I	4150 msnm	No Reproductiva	Ileon	Macho	corrida3	452
+M5R	4150 msnm	No Reproductiva	Recto	Macho	corrida3	19717
+M2S	4150 msnm	No Reproductiva	Estomago	Macho	corrida3	11400
+M2I	4150 msnm	No Reproductiva	Ileon	Macho	corrida3	549
+M2R	4150 msnm	No Reproductiva	Recto	Macho	corrida3	18578
+41FV1I	4150 msnm	No Reproductiva	Ileon	Hembra	corrida2	1269
+41FV1R	4150 msnm	No Reproductiva	Recto	Hembra	corrida2	6693
+41FV1S	4150 msnm	No Reproductiva	Estomago	Hembra	corrida2	6107
+41FV2I	4150 msnm	No Reproductiva	Ileon	Hembra	corrida2	528
+41FV2R	4150 msnm	No Reproductiva	Recto	Hembra	corrida2	3110
+41FV2S	4150 msnm	No Reproductiva	Estomago	Hembra	corrida2	4417
+41FV3I	4150 msnm	No Reproductiva	Ileon	Hembra	corrida2	1728
+41FV3R	4150 msnm	No Reproductiva	Recto	Hembra	corrida2	1381
+41FV3S	4150 msnm	No Reproductiva	Estomago	Hembra	corrida2	4927
+41FV4I	4150 msnm	No Reproductiva	Ileon	Hembra	corrida2	3164
+41FV4R	4150 msnm	No Reproductiva	Recto	Hembra	corrida2	4726
+41FV4S	4150 msnm	No Reproductiva	Estomago	Hembra	corrida2	4837
+41FV5I	4150 msnm	No Reproductiva	Ileon	Hembra	corrida2	4793
+41FV5R	4150 msnm	No Reproductiva	Recto	Hembra	corrida2	67356
+41FV5S	4150 msnm	No Reproductiva	Estomago	Hembra	corrida2	41
+H31S	4150 msnm	No Reproductiva	Estomago	Hembra	corrida3	12441
+H31I	4150 msnm	No Reproductiva	Ileon	Hembra	corrida3	47212
+H31R	4150 msnm	No Reproductiva	Recto	Hembra	corrida3	16632
+H32S	4150 msnm	No Reproductiva	Estomago	Hembra	corrida3	7763
+H32I	4150 msnm	No Reproductiva	Ileon	Hembra	corrida3	9721
+H32R	4150 msnm	No Reproductiva	Recto	Hembra	corrida3	21698
+H33S	4150 msnm	No Reproductiva	Estomago	Hembra	corrida3	1952
+H33I	4150 msnm	No Reproductiva	Ileon	Hembra	corrida3	6873
+H33R	4150 msnm	No Reproductiva	Recto	Hembra	corrida3	21888
+H34S	4150 msnm	No Reproductiva	Estomago	Hembra	corrida3	9633
+H34I	4150 msnm	No Reproductiva	Ileon	Hembra	corrida3	26577
+H34R	4150 msnm	No Reproductiva	Recto	Hembra	corrida3	18371
+H35S	4150 msnm	No Reproductiva	Estomago	Hembra	corrida3	913
+H35I	4150 msnm	No Reproductiva	Ileon	Hembra	corrida3	19975
+H35R	4150 msnm	No Reproductiva	Recto	Hembra	corrida3	15339
